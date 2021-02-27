@@ -14,3 +14,5 @@ Blog ① (Attention is All You Need) : [📝](https://blog.naver.com/ljwon77_/22
 Blog ② (The Illustrated Transformer) : [📝](https://blog.naver.com/ljwon77_/222222342903)  
 Blog ③ (English-German Translate) : [📝](https://blog.naver.com/ljwon77_/222222363166)  
 
+- __Project 4 : Style Tranfer__  
+Notion : [📝](https://www.notion.so/Team-3-572bf4981b0e41d085bb8b2f68c262dc)  
