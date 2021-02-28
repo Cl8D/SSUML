@@ -16,3 +16,4 @@ Blog ③ (English-German Translate) : [📝](https://blog.naver.com/ljwon77_/222
 
 - __Project 4 : Style Transfer__  
 Notion : [📝](https://www.notion.so/Team-3-572bf4981b0e41d085bb8b2f68c262dc)  
+Blog ① (Paper Review) : [📝](https://blog.naver.com/ljwon77_/222247062304)  
