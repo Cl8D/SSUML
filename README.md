@@ -1,5 +1,8 @@
 ### SSUML Project
 
+- __✨ 논문 리뷰 모음__   
+Notion : [🚩](https://cl8d.notion.site/Paper-Review-ac7e891630764f299b2a7dbe5cb99ac5)
+
 - __Project 1 : Fashion MNIST__  
 Blog : [📝](https://blog.naver.com/ljwon77_/222140157475)
 
